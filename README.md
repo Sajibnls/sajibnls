@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my protfolio](https://github.com/Sajibnls/my-protfolio/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 </p>
 
